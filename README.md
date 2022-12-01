@@ -12,5 +12,3 @@
 test *
 ## 2. 연습
 깃 허브 연습
-asd
-asdasd
